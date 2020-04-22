@@ -4,7 +4,7 @@ import './index.css';
 //import App from './App';
 //import Card from './Card';
 //import CardList from './CardList';
-import App from './App';
+import App from './containers/App';
 import * as serviceWorker from './serviceWorker';
 //import registerServiceWorker from './registerServiceWorker';
 import 'tachyons';
